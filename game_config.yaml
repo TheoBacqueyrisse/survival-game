@@ -1,0 +1,15 @@
+info:
+  game-name: "My Survival Game"
+  character-image-path: "assets/character.png"
+
+dimensions:
+  window-width: 1300
+  window-height: 720
+  character-width: 50
+  character-height: 50
+
+parameters:
+  fps: 60
+
+colors:
+  background-color: [133, 193, 233]
